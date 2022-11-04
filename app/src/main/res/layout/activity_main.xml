@@ -33,6 +33,7 @@
         android:layout_toRightOf="@id/a1"
         android:src="@drawable/restaurant" />
 
+
     <ImageView
         android:id="@+id/b1"
         android:layout_marginTop="50dp"
